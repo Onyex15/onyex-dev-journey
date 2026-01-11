@@ -1,0 +1,16 @@
+Date : 30/11/2025
+
+Day : 1
+
+What I learnt :
+1. Variables (const, let)
+2. Template Literals `${}`
+3. Strings and Concatenation
+4. Converting Strings to Numbers using Number()
+4. Rounding up to decimal places using .toFixed()
+
+Challenges:
+Remebering the synatax for converting decimal places.
+
+What I am proud of:
+I was able to create a mini welcome app.
